@@ -18,8 +18,7 @@ A past tense verb (ran, burped, etc.)
 
 ---
 
-Which story would you like?
-a) Snacking
+Which story would you like?\na) Snacking
 b) Escaping
 c) Winning
 
